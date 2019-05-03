@@ -1,0 +1,24 @@
+{
+  "name": "hapi-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namduongkh/hapi-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namduongkh/hapi-18/issues"
+  },
+  "homepage": "https://github.com/namduongkh/hapi-18#readme"
+}
